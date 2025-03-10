@@ -1,8 +1,8 @@
 ** Olá, eu sou o Leonardo, estudante de Engenharia de Software pela Universidade Mogi das Cruzes. ✌
 
-
-"ATUAÇÃO PROFISSIONAL"
-Lider de controle Operacional **
+Desenvolvedor Back-End | Java, SpringBoot, Python, Web | MySQL, PHPmyAdmin | Versionamento de código Git
 
 
-** Estatisticas No GitHub 
+Meu perfil no Linkedin: www.linkedin.com/in/leonardo-sant0s
+
+
